@@ -1,0 +1,22 @@
+{
+  "name": "arcade-based-marker-symbol-renderer",
+  "version": "1.0.0",
+  "description": "Sample of custom renderer that uses and Arcade expression in creating a symbol URL",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "renderer",
+    "arcade"
+  ],
+  "author": "p. cruz <pcruz@esri.com>",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.7.0",
+    "dojo-typings": "^1.11.9"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
